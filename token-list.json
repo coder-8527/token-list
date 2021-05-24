@@ -1,10 +1,8 @@
 {
   "name": "goofytoken",
-  "logoURI": "https://github.com/goofytoken/token-list/blob/main/goofy.png",
+  "logoURI": "https://raw.githubusercontent.com/goofytoken/token-list/main/goofy.png",
   "keywords": [
-      "defi",
-      "DEFI",
-      "yield"
+      "goofy",
     ],
     "timestamp": "2020-09-01T01:40:34.305Z",
     "tokens": [
@@ -14,7 +12,7 @@
       "name": "goofytoken",
       "symbol": "goofy",
       "decimals": 18,
-      "logoURI": "https://github.com/goofytoken/token-list/blob/main/goofy.png"
+      "logoURI": "https://raw.githubusercontent.com/goofytoken/token-list/main/goofy.png"
       }
     ],
     "version": {
