@@ -1,0 +1,25 @@
+{
+  "name": "DEFI",
+  "logoURI": "https://www.xxxxxxxxxxxx/logo.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x6466165eF085C4b5Bc9C978397b128A85d12c184",
+      "name": "goofytoken",
+      "symbol": "goofy",
+      "decimals": 18,
+      "logoURI": "https://github.com/goofytoken/token-list/blob/main/goofy.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
