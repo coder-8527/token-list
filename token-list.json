@@ -9,7 +9,7 @@
       {
       "chainId": 1,
       "address": "0x6466165eF085C4b5Bc9C978397b128A85d12c184",
-      "name": "goofytoken",
+      "name": "goofy Token",
       "symbol": "goofy",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/goofytoken/token-list/main/goofy.png"
